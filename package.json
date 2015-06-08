@@ -1,0 +1,11 @@
+{
+  "name": "angular-ci-cd",
+  "version": "0.0.1",
+  "description": "A tutorial for demonstrating behavior-driven design in support of continuous integration and delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Zeswitz <andrew.zeswitz@icfi.com>",
+  "license": "ISC"
+}
