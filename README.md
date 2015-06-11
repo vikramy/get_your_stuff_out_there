@@ -11,7 +11,7 @@ Topics Covered:
         <li>Create free CodeShip account (http://codeship.io) using your Github ID</li>
         <li>Install NodeJS (http://nodejs.org)</li>
         <li>Clone the Github Repo: https://github.com/icfi-tech-crunch-munch/get_your_stuff_out_there.git</li>
-        <li>Create a site similar to what you had done for the last session to run the site locally (optional but highly recommended)</li>
+        <li>Create a site similar to what you had done for the last session to run the site locally (optional but highly recommended).<b>Do not expect the site to load.  We'll cover this during the session.</b></li>
     </ol>
 </li>
 <li>Step 2 - BRIEF Introduction to Karma and Chai</li>
